@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DeekshithM-2005/DeekshithM-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img 
+    src= 
+    alt="Typing Animation" 
+  />
+</h1>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1000" alt="coding animation"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Buildation -2025** • **Full-Stack Developer** • **Problem Solver**
+
+
+
+---
+
+## 🧩 LeetCode Journey
+
+
+
+---
+
+<div align="center">
+
+## ⚡ What I Craft
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="90"/>
+  <br/><strong>Frontend Magic</strong>
+  <br/><sub>React • Next</sub>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="90"/>
+  <br/><strong>Backend Power</strong>
+  <br/><sub>Node.js • Express</sub>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="90"/>
+  <br/><strong>UI/UX Design</strong>
+  <br/><sub>Figma • Prototyping</sub>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="90"/>
+  <br/><strong>Data Layer</strong>
+  <br/><sub>PostgreSql • Redis • MongoDB</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+
+
+
+## 🛠️ Technology Arsenal
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,nestjs,aws,docker,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
+
+---
+
+## 🌱 Expanding Horizons
+
+<img src="https://skillicons.dev/icons?i=kubernetes,python,fastapi,spring&theme=dark" alt="Learning"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpan2007&theme=high-contrast&hide_border=false&bg_color=0D1117&color=A277FF&line=61DAFB&point=00D9FF&area=true&area_color=A277FF" 
+width="100%" 
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+*"Building digital experiences where performance meets elegance, and innovation solves real problems."*
+
+</div>
